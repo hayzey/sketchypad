@@ -1,0 +1,24 @@
+html, body {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+body {
+	padding: 20px 40px;
+}
+
+.grid {
+	background: #ffff66;
+	width: 500px;
+	height: 500px;
+	margin: 10px 0;
+	position: absolute;
+	line-height: 0;
+	border: 5px solid black;
+}
+
+.grid-cell {
+	background: #ffff66;
+	display: inline-block;
+}
